@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanmay%20Pardhi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Real-Time%20%26%20Backend%20Systems&descAlignY=58&descSize=18&descColor=E4E4E7" width="100%" />
+# Tanmay Pardhi
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=I+don%27t+just+write+code+%E2%80%94+I+ship+products;Building+real-time+systems+%26+backend+infra;MERN+%C2%B7+Electron+%C2%B7+Socket.IO+%C2%B7+WebRTC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Real-Time+%26+Backend+Systems;I+don%27t+just+write+code+%E2%80%94+I+ship+products;MERN+%C2%B7+Electron+%C2%B7+Socket.IO+%C2%B7+WebRTC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,6 +11,10 @@
 <a href="https://github.com/codevdtanmay"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/codevdtanmay"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:myselftanmay8@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/codevdtanmay/codevdtanmay/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -188,23 +192,7 @@ Data Structures & Algorithms → Backend Architecture → System Design → Scal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=codevdtanmay&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevdtanmay&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=codevdtanmay&theme=tokyonight&hide_border=true" width="75%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=codevdtanmay&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<br/><br/>
-
-<!--START_SECTION:waka-->
-<!-- snake animation goes here after workflow setup — see note below -->
-<img src="https://raw.githubusercontent.com/codevdtanmay/codevdtanmay/output/github-contribution-grid-snake-dark.svg" width="100%" />
-<!--END_SECTION:waka-->
 
 <br/><br/>
 
@@ -245,7 +233,5 @@ Open to internships and full-stack / backend roles where I can own real problems
 <br/><br/>
 
 <strong>Build · Learn · Ship · Repeat.</strong>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
