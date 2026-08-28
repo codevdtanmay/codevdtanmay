@@ -1,9 +1,9 @@
 <div align="center">
 
-# Tanmay Pardhi
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=46&duration=2000&pause=100000&color=A78BFA&center=true&vCenter=true&width=500&height=70&lines=Tanmay+Pardhi&repeat=false" alt="Tanmay Pardhi" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Real-Time+%26+Backend+Systems;I+don%27t+just+write+code+%E2%80%94+I+ship+products;MERN+%C2%B7+Electron+%C2%B7+Socket.IO+%C2%B7+WebRTC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Real-Time+%26+Backend+Systems;I+don%27t+just+write+code+%E2%80%94+I+ship+products;MERN+%C2%B7+Electron+%C2%B7+Socket.IO+%C2%B7+WebRTC" alt="Typing SVG" />
 </a>
 
 <br/>
